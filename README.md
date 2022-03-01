@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🌱 I’m currently learning React JS
+- 📫 How to reach me: @armanhm
 
 <!--
 **armanhm/armanhm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
