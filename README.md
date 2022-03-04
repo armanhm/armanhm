@@ -1,13 +1,9 @@
 # 🚀 about
-- 🌱 Currently learning: React.js
-- 📫 How to reach me: @armanhm
-- 👯 I’m looking to collaborate on Open source project
+- :computer: I'm currently study Computer Engeneering in [Shahid Beheshti university](https://sbu.ac.ir/)
+- :school: I'm currently learning : React.js, JavaScript
 
 
 
-
-<details>
-  <summary><b>Where to find me</b></summary>
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/armanhm)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/arman-hm-75b6bb7a/)
