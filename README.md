@@ -16,7 +16,9 @@
 
 ## Skills
 
-[![python](https://img.shields.io/badge/python-★★☆-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white)](https://www.python.org/)
-[![javascript](https://img.shields.io/badge/javascript-★★☆-lightgrey?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=black)](https://www.w3schools.com/js)
+[![Python](https://img.shields.io/badge/python-★★☆-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white)](https://www.python.org/)
+[![html](https://img.shields.io/badge/html-★★★-lightgrey?labelColor=E34F26&logo=HTML5&style=for-the-badge&logoColor=white)](https://www.w3schools.com/html)
+[![JavaScript](https://img.shields.io/badge/javascript-★★☆-lightgrey?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=black)](https://www.w3schools.com/js)
 [![css](https://img.shields.io/badge/css-★★★-lightgrey?labelColor=1572B6&logo=CSS3&style=for-the-badge&logoColor=white)](https://www.w3schools.com/css)
-[![React](https://img.shields.io/badge/react-★☆☆-lightgrey?labelColor=4169E1&logo=react&style=for-the-badge&logoColor=white)](https://reactjs.org/)
+[![Java](https://img.shields.io/badge/java-★★★-lightgrey?labelColor=4EAA25&logo=GNU-java&style=for-the-badge&logoColor=white)](https://www.java.com/)
+[![React JS](https://img.shields.io/badge/react-★☆☆-lightgrey?labelColor=4169E1&logo=react&style=for-the-badge&logoColor=white)](https://reactjs.org/)
