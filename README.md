@@ -19,4 +19,4 @@
 [![python](https://img.shields.io/badge/python-★★☆-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white)](https://www.python.org/)
 [![javascript](https://img.shields.io/badge/javascript-★★☆-lightgrey?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=black)](https://www.w3schools.com/js)
 [![css](https://img.shields.io/badge/css-★★★-lightgrey?labelColor=1572B6&logo=CSS3&style=for-the-badge&logoColor=white)](https://www.w3schools.com/css)
-[![React](https://img.shields.io/badge/react-★☆☆-lightgrey?labelColor=4169E1&logo=PostgreSQL&style=for-the-badge&logoColor=white)](https://reactjs.org/)
+[![React](https://img.shields.io/badge/react-★☆☆-lightgrey?labelColor=4169E1&logo=react&style=for-the-badge&logoColor=white)](https://reactjs.org/)
