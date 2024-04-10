@@ -1,7 +1,7 @@
 ## 🚀 About me
 - :computer: Currently I'm a master's student and research assistant in [Concordia university](https://concordia.ca/)
 - :computer: I also studied bachelor's of Computer Engeneering in [Shahid Beheshti university](https://sbu.ac.ir/)
-- :school: and learning : React.js, JavaScript, Solidity
+- :school: and learning : Natural Language Processing, Large Language Models, MAchine learning
 - :dart: Field of interest: FrontEnd - Quality Assurance - Web3
 
 
