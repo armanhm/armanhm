@@ -1,6 +1,6 @@
 ## 🚀 About me
-- :computer: Currently I'm a master's student and research assistant in [Concordia university](https://concordia.ca/)
-- :computer: I also studied bachelor's of Computer Engeneering in [Shahid Beheshti university](https://sbu.ac.ir/)
+- :computer: Currently I'm a master's student and research assistant at [Concordia university](https://concordia.ca/)
+- :computer: I also studied Bachelor's of Computer Engineering at [Shahid Beheshti university](https://sbu.ac.ir/)
 - :school: Field of interest: Natural Language Processing, Large Language Models, MAchine learning
 
 
