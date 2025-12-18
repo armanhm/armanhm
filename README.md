@@ -1,27 +1,50 @@
-## 🚀 About me
-- :computer: Currently I'm a master's student and research assistant at [Concordia University](https://concordia.ca/)
-- :computer: I also studied Bachelor's of Computer Engineering at [SBU University](https://sbu.ac.ir/)
-- :school: Field of interest: Natural Language Processing, Large Language Models, Machine learning, Python
+# Hi there, I'm Arman Hosseinmardi! 👋
 
+### AI/ML Engineer • Software Engineer
 
+I am a results-driven engineer focused on bridging the gap between research and production. I specialize in architecting backend modules, integrating LLM/RAG pipelines, and shipping reliable data workflows for enterprise-scale platforms.
 
-## Skills
+---
 
-[![Python](https://img.shields.io/badge/python-★★☆-000000?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white)](https://www.python.org/)
-[![html](https://img.shields.io/badge/html-★★★-000000?labelColor=E34F26&logo=HTML5&style=for-the-badge&logoColor=white)](https://www.w3schools.com/html)
-[![css](https://img.shields.io/badge/css-★★☆-000000?labelColor=1572B6&logo=CSS3&style=for-the-badge&logoColor=white)](https://www.w3schools.com/css)
+### 🛠️ Tech Stack
 
-[![JavaScript](https://img.shields.io/badge/javascript-★★☆-000000?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=black)](https://www.w3schools.com/js)
-[![Java](https://img.shields.io/badge/java-★★★-000000?labelColor=4EAA25&logo=GNU-java&style=for-the-badge&logoColor=white)](https://www.java.com/)
-[![React JS](https://img.shields.io/badge/react-★☆☆-000000?labelColor=4169E1&logo=react&style=for-the-badge&logoColor=white)](https://reactjs.org/)
+**Languages & Core:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
+**AI & ML:**
+![NLP](https://img.shields.io/badge/NLP-Natural_Language_Processing-orange?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-GenAI-blueviolet?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-blue?style=for-the-badge)
 
+**Data Engineering & Cloud:**
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 
+---
 
-<details>
-  <summary><b>Contact Info</b></summary>
-  
-[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/armanhm)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/arman-hosseinmardi/)
+### 🔭 What I'm Working On
 
-</details>
+* **AI Software Engineer Intern @ CREO Solutions:** Architecting backend modules for LLM-based NLP, designing fine-tuning pipelines, and building ETL workflows using Python and Airflow.
+* **AI SWE & Research Assistant @ Concordia University Innovation Lab:** Engineering cloud-native APIs (Azure) for cyberviolence detection and developing RAG pipelines for sensitive content detection.
+
+### 🎓 Education
+
+* **M.A.Sc. in Information & Quality Systems Engineering** | Concordia University (2023–2025)
+* **B.Sc. in Computer Engineering** | Shahid Beheshti University (2018–2023)
+
+---
+
+### 📫 Let's Connect
+
+* 📍 **Location:** Montreal, Quebec, Canada
+* 💼 **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN-HANDLE](https://www.linkedin.com/)
+* 📧 **Email:** [armanhosseinmardi@gmail.com](mailto:armanhosseinmardi@gmail.com)
+
+![Arman's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
