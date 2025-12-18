@@ -4,7 +4,6 @@
 
 ### Full Stack AI Software Engineer
 
-[!(https://img.shields.io/badge/Portfolio-Visit_My Portfolio_Website-7023FA?style=for-the-badge&logo=googlechrome&logoColor=white)](https://armanhm.is-a.dev)
 
 *Based in Montreal, Quebec* 🇨🇦
 
