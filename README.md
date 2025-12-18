@@ -4,6 +4,8 @@
 
 ### Full Stack AI Software Engineer
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-7023FA?style=for-the-badge&logo=googlechrome&logoColor=white)](https://armanhm.is-a.dev)
+
 *Based in Montreal, Quebec* 🇨🇦
 
 Currently bridging the gap between research and production. I specialize in architecting backend modules, integrating LLM/RAG pipelines, and shipping reliable data workflows for enterprise-scale platforms.
@@ -52,6 +54,7 @@ Currently bridging the gap between research and production. I specialize in arch
 
 ### 📫 Let's Connect
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://armanhm.is-a.dev)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:armanhosseinmardi@gmail.com)
 
