@@ -44,11 +44,6 @@ Currently bridging the gap between research and production. I specialize in arch
 
 <div align="center">
 
-### 📊 GitHub Stats
-
-![Arman's GitHub stats](https://github-readme-stats.vercel.app/api?username=armanhm&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armanhm&layout=compact&theme=tokyonight)
-
 <br/>
 
 ### 📫 Let's Connect
