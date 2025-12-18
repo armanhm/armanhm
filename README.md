@@ -41,7 +41,6 @@ Currently bridging the gap between research and production. I specialize in arch
 * **B.Sc. Computer Engineering** | Shahid Beheshti University (2018–2023)
 
 ---
-
 <div align="center">
 
 <br/>
