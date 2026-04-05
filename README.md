@@ -2,7 +2,7 @@
 
 # Hi there, I'm Arman Hosseinmardi! 👋
 
-### Full Stack AI Software Engineer
+### Full Stack Software Developer
 
 
 *Based in Montreal, Quebec* 🇨🇦
