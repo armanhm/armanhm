@@ -1,45 +1,15 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-  <img alt="Arman Hosseinmardi, full stack software developer at Nurau. Frontline voice, camera and notes become signals, then risk events, then resolved risks." src="./assets/header-light.svg" width="100%">
-</picture>
+<img src="./assets/hero.svg" width="100%" alt="Arman Hosseinmardi, full stack software developer at Nurau in Montreal. Frontline voice, camera and notes become signals, then risk events, then resolved risks.">
 
-### Hi, I'm Arman 👋
+<img src="./assets/about.svg" width="100%" alt="About: I'm a full stack software developer at Nurau in Montreal. Frontline teams speak, snap or type what they see; I build the path that turns it into structured, audit-ready events. Frontend: React, TypeScript, MUI. Backend: Django, DRF, Celery. AI: speech, RAG, vision. Data and cloud: Postgres, Redis, Azure. Also LangChain, FastAPI, PyTorch, PostHog, Sentry, Airflow, Snowflake and Spark.">
 
-I'm a full stack software developer at **[Nurau](https://nurau.com)** in Montreal. Nurau is a shift-level risk intelligence platform: frontline teams speak, snap or type what they see during a shift, and we turn it into structured, audit-ready events before small issues become costly incidents.
+<img src="./assets/shift-report.svg" width="100%" alt="Shift report of what I'm building at Nurau. Resolved: voice-first shift notes, and camera signals that open events. In progress: resolution analytics. Open, next shift: bringing in signals from SharePoint, Slack, Teams and email.">
 
-I work across the whole path: **React + TypeScript** on the frontend, **Django + Celery** on the backend, and the AI in between (speech-to-text, RAG with cited sources, and camera signals).
+<img src="./assets/journey.svg" width="100%" alt="How I got here: B.Sc. Computer Engineering at Shahid Beheshti University (2018–2023), M.A.Sc. Information and Quality Systems Engineering at Concordia (2023–2025), AI SWE and research assistant at Concordia Innovation Lab, AI software engineer intern at CREO Solutions, and now full stack software developer at Nurau.">
 
-### 📟 Shift report
-
-| Status | What I'm on |
-| :-- | :-- |
-| 🟢 **Shipped** | Voice-first notes: talk, add a photo or a file, and the AI structures it into an event |
-| 🟢 **Shipped** | Camera signals that open events on their own, with alerts the site can tune |
-| 🟠 **In progress** | Measuring how fast teams resolve risks, and how much of it is done by people vs. automation |
-| 🔴 **Open** | Making AI answers trustworthy: clear sources, no silent failures |
-
-### 🧰 Toolbox
+<img src="./assets/contact.svg" width="100%" alt="Contact: let's talk frontline software.">
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,ts,react,postgres,redis,docker,githubactions,azure,pytorch&perline=11" alt="Python, Django, FastAPI, TypeScript, React, PostgreSQL, Redis, Docker, GitHub Actions, Azure, PyTorch">
+  <a href="mailto:armanhosseinmardi@gmail.com"><img src="./assets/button-email.svg" height="46" alt="Email me"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/arman-hosseinmardi/"><img src="./assets/button-linkedin.svg" height="46" alt="LinkedIn"></a>&nbsp;
+  <a href="https://armanhm.is-a.dev"><img src="./assets/button-portfolio.svg" height="46" alt="Portfolio"></a>
 </p>
-
-<sub>Also: LangChain · RAG pipelines · Celery · PostHog · Sentry · Airflow · Snowflake · Databricks · Spark · Elasticsearch</sub>
-
-### 🗂️ Previously
-
-- **AI Software Engineer Intern** · CREO Solutions: backend modules for LLM-based NLP (LangChain, RAG), and Airflow ETL that normalizes and vectorizes documents.
-- **AI SWE & Research Assistant** · Concordia University Innovation Lab: cloud APIs on Azure and RAG pipelines for cyberviolence and sensitive content detection.
-
-### 🎓 Education
-
-- **M.A.Sc., Information & Quality Systems Engineering** · Concordia University · 2023–2025
-- **B.Sc., Computer Engineering** · Shahid Beheshti University · 2018–2023
-
-### 📫 Say hi
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-armanhm.is--a.dev-071C22?style=flat-square&logo=googlechrome&logoColor=white)](https://armanhm.is-a.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arman_Hosseinmardi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arman-hosseinmardi/)
-[![Email](https://img.shields.io/badge/Email-armanhosseinmardi@gmail.com-E30031?style=flat-square&logo=gmail&logoColor=white)](mailto:armanhosseinmardi@gmail.com)
-
-<sub>This profile is laid out like a Nurau shift report: 🟢 resolved · 🟠 in progress · 🔴 open.</sub>
