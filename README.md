@@ -1,54 +1,45 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <img alt="Arman Hosseinmardi, full stack software developer at Nurau. Frontline voice, camera and notes become signals, then risk events, then resolved risks." src="./assets/header-light.svg" width="100%">
+</picture>
 
-# Hi there, I'm Arman Hosseinmardi! 👋
+### Hi, I'm Arman 👋
 
-### Full Stack Software Developer
+I'm a full stack software developer at **[Nurau](https://nurau.com)** in Montreal. Nurau is a shift-level risk intelligence platform: frontline teams speak, snap or type what they see during a shift, and we turn it into structured, audit-ready events before small issues become costly incidents.
 
+I work across the whole path: **React + TypeScript** on the frontend, **Django + Celery** on the backend, and the AI in between (speech-to-text, RAG with cited sources, and camera signals).
 
-*Based in Montreal, Quebec* 🇨🇦
+### 📟 Shift report
 
-Currently bridging the gap between research and production. I specialize in architecting backend modules, integrating LLM/RAG pipelines, and shipping reliable data workflows for enterprise-scale platforms.
+| Status | What I'm on |
+| :-- | :-- |
+| 🟢 **Shipped** | Voice-first notes: talk, add a photo or a file, and the AI structures it into an event |
+| 🟢 **Shipped** | Camera signals that open events on their own, with alerts the site can tune |
+| 🟠 **In progress** | Measuring how fast teams resolve risks, and how much of it is done by people vs. automation |
+| 🔴 **Open** | Making AI answers trustworthy: clear sources, no silent failures |
 
----
+### 🧰 Toolbox
 
-### 🛠️ Technology Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,ts,react,postgres,redis,docker,githubactions,azure,pytorch&perline=11" alt="Python, Django, FastAPI, TypeScript, React, PostgreSQL, Redis, Docker, GitHub Actions, Azure, PyTorch">
+</p>
 
-| Core & Backend | AI & Machine Learning | Data & Cloud |
-| :---: | :---: | :---: |
-| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![NLP](https://img.shields.io/badge/NLP-Natural_Language_Processing-orange?style=for-the-badge) | ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) |
-| ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white) | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) | ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) |
-| ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) | ![OpenAI](https://img.shields.io/badge/LLMs-GenAI-blueviolet?style=for-the-badge) | ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white) |
-| ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) | ![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented-blue?style=for-the-badge) | ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white) |
-| ![Elastic](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) | ![Pytorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) | ![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) |
+<sub>Also: LangChain · RAG pipelines · Celery · PostHog · Sentry · Airflow · Snowflake · Databricks · Spark · Elasticsearch</sub>
 
-</div>
+### 🗂️ Previously
 
----
-
-### 🔭 What I'm Working On
-
-* **AI Software Engineer Intern @ CREO Solutions**
-    * Architecting backend modules for LLM-based NLP with LangChain & RAG.
-    * Building ETL pipelines (Python, Airflow) to normalize & vectorize documents.
-
-* **AI SWE & Research Assistant @ Concordia University Innovation Lab**
-    * Engineering cloud-native APIs (Azure) for cyberviolence detection.
-    * Developing RAG pipelines for sensitive content detection.
+- **AI Software Engineer Intern** · CREO Solutions: backend modules for LLM-based NLP (LangChain, RAG), and Airflow ETL that normalizes and vectorizes documents.
+- **AI SWE & Research Assistant** · Concordia University Innovation Lab: cloud APIs on Azure and RAG pipelines for cyberviolence and sensitive content detection.
 
 ### 🎓 Education
 
-* **M.A.Sc. Information & Quality Systems Engineering** | Concordia University (2023–2025)
-* **B.Sc. Computer Engineering** | Shahid Beheshti University (2018–2023)
+- **M.A.Sc., Information & Quality Systems Engineering** · Concordia University · 2023–2025
+- **B.Sc., Computer Engineering** · Shahid Beheshti University · 2018–2023
 
----
-<div align="center">
+### 📫 Say hi
 
-<br/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-armanhm.is--a.dev-071C22?style=flat-square&logo=googlechrome&logoColor=white)](https://armanhm.is-a.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arman_Hosseinmardi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arman-hosseinmardi/)
+[![Email](https://img.shields.io/badge/Email-armanhosseinmardi@gmail.com-E30031?style=flat-square&logo=gmail&logoColor=white)](mailto:armanhosseinmardi@gmail.com)
 
-### 📫 Let's Connect
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://armanhm.is-a.dev)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:armanhosseinmardi@gmail.com)
-
-</div>
+<sub>This profile is laid out like a Nurau shift report: 🟢 resolved · 🟠 in progress · 🔴 open.</sub>
